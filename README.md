@@ -163,7 +163,7 @@ Structure your program per the below, wherein convert is a function (that can be
 
 * 1) [camelCase](https://github.com/berdii/python-basics/tree/main/w2/pset2/camel)
 
-![imagen](https://user-images.githubusercontent.com/97915480/173244975-857acaa6-147a-4138-bed4-3979f0bfb8f8.png)
+![alt text](https://user-images.githubusercontent.com/97915480/173244975-857acaa6-147a-4138-bed4-3979f0bfb8f8.png)
 
 
 In some languages, it’s common to use camel case (otherwise known as “mixed case”) for variables’ names when those names comprise multiple words, whereby the first letter of the first word is lowercase but the first letter of each subsequent word is uppercase. For instance, whereas a variable for a user’s name might be called name, a variable for a user’s first name might be called firstName, and a variable for a user’s preferred first name (e.g., nickname) might be called preferredFirstName.
@@ -174,7 +174,7 @@ In a file called camel.py, implement a program that prompts the user for the nam
 
 * 2) [Coke Machine](https://github.com/berdii/python-basics/tree/main/w2/pset2/coke)
 
-![imagen](https://user-images.githubusercontent.com/97915480/173245016-2f6c7f93-a5ab-492e-8e4c-486c082a91fb.png)
+![alt text](https://user-images.githubusercontent.com/97915480/173245016-2f6c7f93-a5ab-492e-8e4c-486c082a91fb.png)
 
 
 Suppose that a machine sells bottles of Coca-Cola (Coke) for 50 cents and only accepts coins in these denominations: 25 cents, 10 cents, and 5 cents.
@@ -193,7 +193,7 @@ When texting or tweeting, it’s not uncommon to shorten words to save time or s
 * 4) [Vanity Plates](https://github.com/berdii/python-basics/tree/main/w2/pset2/plates)
 
 
-![imagen](https://user-images.githubusercontent.com/97915480/173245058-a6d2d391-6b9e-4d41-8515-c22eeb33d1b4.png)
+![alt text](https://user-images.githubusercontent.com/97915480/173245058-a6d2d391-6b9e-4d41-8515-c22eeb33d1b4.png)
 
 In Massachusetts, home to Harvard University, it’s possible to request a vanity license plate for your car, with your choice of letters and numbers instead of random ones. Among the requirements, though, are:
 
@@ -230,7 +230,7 @@ In a file called nutrition.py, implement a program that prompts consumers users 
 
 * 1) [Fuel Gauge](https://github.com/berdii/python-basics/tree/main/w3/pset3/fuel)
 
-![imagen](https://user-images.githubusercontent.com/97915480/173245149-dc2d3d44-2fd8-4bc1-a209-151951191bb7.png)
+![alt text](https://user-images.githubusercontent.com/97915480/173245149-dc2d3d44-2fd8-4bc1-a209-151951191bb7.png)
 
 
 Fuel gauges indicate, often with fractions, just how much fuel is in a tank. For instance 1/4 indicates that a tank is 25% full, 1/2 indicates that a tank is 50% full, and 3/4 indicates that a tank is 75% full.
@@ -241,7 +241,7 @@ If, though, X or Y is not an integer, X is greater than Y, or Y is 0, instead pr
 
 * 2) [Felipe’s Taqueria](https://github.com/berdii/python-basics/tree/main/w3/pset3/taqueria)
 
-![imagen](https://user-images.githubusercontent.com/97915480/173245223-0cdcb553-6968-48e4-a1dc-cb4cfe8c64b5.png)
+![alt text](https://user-images.githubusercontent.com/97915480/173245223-0cdcb553-6968-48e4-a1dc-cb4cfe8c64b5.png)
 
 One of the most popular places to eat in Harvard Square is Felipe’s Taqueria, which offers a menu of entrees, per the dict below, wherein the value of each key is a price in dollars:
 
