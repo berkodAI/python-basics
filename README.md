@@ -1,5 +1,3 @@
-# Python-Basics
-
 # Problem Sets
 
 ## [Pset0](https://github.com/berdii/python-basics/tree/main/w0/pset0)  :
