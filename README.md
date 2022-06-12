@@ -1,4 +1,4 @@
-# pyhton-basics
+# Python-Basics
 
 # Problem Sets
 
