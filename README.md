@@ -2,7 +2,7 @@
 
 ## [Pset0](https://github.com/berdii/python-basics/tree/main/w0/pset0)  :
 
-* 1) [Indoor Voice](https://github.com/berdii/python-basics/tree/main/w0/pset0/indoor)
+  1) [Indoor Voice](https://github.com/berdii/python-basics/tree/main/w0/pset0/indoor)
 
 WRITING IN ALL CAPS IS LIKE YELLING.
 
@@ -21,14 +21,14 @@ Here’s how to test your code manually. At the indoor/ $ prompt in your termina
 * Run your program with python indoor.py. Type 50 and press Enter. Your program should output 50.
 
 
-* 2) [Playback Speed](https://github.com/berdii/python-basics/tree/main/w0/pset0/playback)
+  2) [Playback Speed](https://github.com/berdii/python-basics/tree/main/w0/pset0/playback)
 
 Some people have a habit of lecturing speaking rather quickly, and it’d be nice to slow them down, a la YouTube’s 0.75 playback speed, or even by having them pause between words.
 
 In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods).
 
 
-* 3) [Making Faces](https://github.com/berdii/python-basics/tree/main/w0/pset0/faces)
+  3) [Making Faces](https://github.com/berdii/python-basics/tree/main/w0/pset0/faces)
 
 Before there were emoji, there were emoticons, whereby text like :) was a happy face and text like :( was a sad face. Nowadays, programs tend to convert emoticons to emoji automatically!
 
@@ -38,13 +38,13 @@ Then, in that same file, implement a function called main that prompts the user 
 
 
 
-* 4) [Einstein](https://github.com/berdii/python-basics/tree/main/w0/pset0/einstein)
+  4) [Einstein](https://github.com/berdii/python-basics/tree/main/w0/pset0/einstein)
 
 Even if you haven’t studied physics (recently or ever!), you might have heard that , wherein  represents energy (measured in Joules),  represents mass (measured in kilograms), and  represents the speed of light (measured approximately as 300000000 meters per second), per Albert Einstein et al. Essentially, the formula means that mass and energy are equivalent.
 
 In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.
 
-* 5) [Tip Calculator](https://github.com/berdii/python-basics/tree/main/w0/pset0/tip)
+  5) [Tip Calculator](https://github.com/berdii/python-basics/tree/main/w0/pset0/tip)
 
 And now for my Wizard tip calculator.
 
@@ -78,7 +78,7 @@ Assume that the user will input values in the expected formats.
 
 ## [Pset1](https://github.com/berdii/python-basics/tree/main/w1/pset1) :
 
-* 1) [Deep Thought](https://github.com/berdii/python-basics/tree/main/w1/pset1/deep)
+  1) [Deep Thought](https://github.com/berdii/python-basics/tree/main/w1/pset1/deep)
 
     “All right,” said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable.
     “You’re really not going to like it,” observed Deep Thought.
@@ -99,14 +99,14 @@ Assume that the user will input values in the expected formats.
     
     
     
-* 2) [Home Federal Savings Bank](https://github.com/berdii/python-basics/tree/main/w1/pset1/bank)
+  2) [Home Federal Savings Bank](https://github.com/berdii/python-basics/tree/main/w1/pset1/bank)
 
 
 [In season 7, episode 24 of Seinfeld](https://youtu.be/IN6cJ_wGmsk), Kramer visits a bank that promises to give $100 to anyone who isn’t greeted with a “hello.” Kramer is instead greeted with a “hey,” which he insists isn’t a “hello,” and so he asks for $100. The bank’s manager proposes a compromise: “You got a greeting that starts with an ‘h,’ how does $20 sound?” Kramer accepts.
 
 In a file called bank.py, implement a program that prompts the user for a greeting. If the greeting starts with “hello”, output $0. If the greeting starts with an “h” (but not “hello”), output $20. Otherwise, output $100. Ignore any leading whitespace in the user’s greeting, and treat the user’s greeting case-insensitively.
 
-* 3) [File Extensions](https://github.com/berdii/python-basics/tree/main/w1/pset1/extensions)
+  3) [File Extensions](https://github.com/berdii/python-basics/tree/main/w1/pset1/extensions)
 
 Even though Windows and macOS sometimes hide them, most files have file extensions, a suffix that starts with a period (.) at the end of their name. For instance, file names for GIFs end with .gif, and file names for JPEGs end with .jpg or .jpeg. When you double-click on a file to open it, your computer uses its file extension to determine which program to launch.
 
@@ -124,7 +124,7 @@ In a file called extensions.py, implement a program that prompts the user for th
 
 If the file’s name ends with some other suffix or has no suffix at all, output application/octet-stream instead, which is a common default.
 
-* 4) [Math Interpreter](https://github.com/berdii/python-basics/tree/main/w1/pset1/interpreter)
+  4) [Math Interpreter](https://github.com/berdii/python-basics/tree/main/w1/pset1/interpreter)
 
 Python already supports math, whereby you can write code to add, subtract, multiply, or divide values and even variables. But let’s write a program that enables users to do math, even without knowing Python.
 
@@ -138,7 +138,7 @@ For instance, if the user inputs 1 + 1, your program should output 2.0. Assume t
 
 Note that, just as python itself is an interpreter for Python, so will your interpreter.py be an interpreter for math!
 
-* 5) [Meal Time](https://github.com/berdii/python-basics/tree/main/w1/pset1/meal)
+  5) [Meal Time](https://github.com/berdii/python-basics/tree/main/w1/pset1/meal)
 
 Suppose that you’re in a country where it’s customary to eat breakfast between 7:00 and 8:00, lunch between 12:00 and 13:00, and dinner between 18:00 and 19:00. Wouldn’t it be nice if you had a program that could tell you what to eat when?
 
@@ -161,7 +161,7 @@ Structure your program per the below, wherein convert is a function (that can be
 
 ## [Pset2](https://github.com/berdii/python-basics/tree/main/w2/pset2) :
 
-* 1) [camelCase](https://github.com/berdii/python-basics/tree/main/w2/pset2/camel)
+  1) [camelCase](https://github.com/berdii/python-basics/tree/main/w2/pset2/camel)
 
 ![camel](https://user-images.githubusercontent.com/97915480/173244975-857acaa6-147a-4138-bed4-3979f0bfb8f8.png)
 
@@ -172,7 +172,7 @@ Python, by contrast, recommends snake case, whereby words are instead separated 
 
 In a file called camel.py, implement a program that prompts the user for the name of a variable in camel case and outputs the corresponding name in snake case. Assume that the user’s input will indeed be in camel case.
 
-* 2) [Coke Machine](https://github.com/berdii/python-basics/tree/main/w2/pset2/coke)
+  2) [Coke Machine](https://github.com/berdii/python-basics/tree/main/w2/pset2/coke)
 
 ![coke](https://user-images.githubusercontent.com/97915480/173245016-2f6c7f93-a5ab-492e-8e4c-486c082a91fb.png)
 
@@ -181,7 +181,7 @@ Suppose that a machine sells bottles of Coca-Cola (Coke) for 50 cents and only a
 
 In a file called coke.py, implement a program that prompts the user to insert a coin, one at a time, each time informing the user of the amount due. Once the user has inputted at least 50 cents, output how many cents in change the user is owed. Assume that the user will only input integers, and ignore any integer that isn’t an accepted denomination.
 
-* 3) [Just setting up my twttr](https://github.com/berdii/python-basics/tree/main/w2/pset2/twttr)
+  3) [Just setting up my twttr](https://github.com/berdii/python-basics/tree/main/w2/pset2/twttr)
 
       just setting up my twttr
 
@@ -190,7 +190,7 @@ In a file called coke.py, implement a program that prompts the user to insert a 
 
 When texting or tweeting, it’s not uncommon to shorten words to save time or space, as by omitting vowels, much like Twitter was originally called twttr. In a file called twttr.py, implement a program that prompts the user for a str of text and then outputs that same text but with all vowels (A, E, I, O, and U) omitted, whether inputted in uppercase or lowercase.
 
-* 4) [Vanity Plates](https://github.com/berdii/python-basics/tree/main/w2/pset2/plates)
+  4) [Vanity Plates](https://github.com/berdii/python-basics/tree/main/w2/pset2/plates)
 
 
 ![plate](https://user-images.githubusercontent.com/97915480/173245058-a6d2d391-6b9e-4d41-8515-c22eeb33d1b4.png)
@@ -219,7 +219,7 @@ In plates.py, implement a program that prompts the user for a vanity plate and t
         main()
       
 
-* 5) [Nutrition Facts](https://github.com/berdii/python-basics/tree/main/w2/pset2/nutrition)
+  5) [Nutrition Facts](https://github.com/berdii/python-basics/tree/main/w2/pset2/nutrition)
 
 The U.S. Food & Drug Adminstration (FDA) offers downloadable/printable posters that “show nutrition information for the 20 most frequently consumed raw fruits … in the United States. Retail stores are welcome to download the posters, print, display and/or distribute them to consumers in close proximity to the relevant foods in the stores.”
 
@@ -228,7 +228,7 @@ In a file called nutrition.py, implement a program that prompts consumers users 
 
 ## [Pset3](https://github.com/berdii/python-basics/tree/main/w3/pset3) :
 
-* 1) [Fuel Gauge](https://github.com/berdii/python-basics/tree/main/w3/pset3/fuel)
+  1) [Fuel Gauge](https://github.com/berdii/python-basics/tree/main/w3/pset3/fuel)
 
 ![fuel](https://user-images.githubusercontent.com/97915480/173245149-dc2d3d44-2fd8-4bc1-a209-151951191bb7.png)
 
@@ -239,7 +239,7 @@ In a file called fuel.py, implement a program that prompts the user for a fracti
 
 If, though, X or Y is not an integer, X is greater than Y, or Y is 0, instead prompt the user again. (It is not necessary for Y to be 4.) Be sure to catch any exceptions like ValueError or ZeroDivisionError.
 
-* 2) [Felipe’s Taqueria](https://github.com/berdii/python-basics/tree/main/w3/pset3/taqueria)
+  2) [Felipe’s Taqueria](https://github.com/berdii/python-basics/tree/main/w3/pset3/taqueria)
 
 ![taqueria](https://user-images.githubusercontent.com/97915480/173245223-0cdcb553-6968-48e4-a1dc-cb4cfe8c64b5.png)
 
@@ -261,13 +261,13 @@ One of the most popular places to eat in Harvard Square is Felipe’s Taqueria, 
 In a file called taqueria.py, implement a program that enables a user to place an order, prompting them for items, one per line, until the user inputs control-d (which is a common way of ending one’s input to a program). After each inputted item, display the total cost of all items inputted thus far, prefixed with a dollar sign ($) and formatted to two decimal places. Treat the user’s input case insensitively. Ignore any input that isn’t an item. Assume that every item on the menu will be titlecased.
 
 
-* 3) [Grocery List](https://github.com/berdii/python-basics/tree/main/w3/pset3/grocery)
+  3) [Grocery List](https://github.com/berdii/python-basics/tree/main/w3/pset3/grocery)
 
 Suppose that you’re in the habit of making a list of items you need from the grocery store.
 
 In a file called grocery.py, implement a program that prompts the user for items, one per line, until the user inputs control-d (which is a common way of ending one’s input to a program). Then output the user’s grocery list in all uppercase, sorted alphabetically by item, prefixing each line with the number of times the user inputted that item. No need to pluralize the items. Treat the user’s input case-insensitively.
 
-* 4) [Outdated](https://github.com/berdii/python-basics/tree/main/w3/pset3/outdated)
+  4) [Outdated](https://github.com/berdii/python-basics/tree/main/w3/pset3/outdated)
 
 In the United States, dates are typically formatted in month-day-year order (MM/DD/YYYY), otherwise known as middle-endian order, which is arguably bad design. Dates in that format can’t be easily sorted because the date’s year comes last instead of first. Try sorting, for instance, 2/2/1800, 3/3/1900, and 1/1/2000 chronologically in any program (e.g., a spreadsheet). Dates in that format are also ambiguous. Harvard was founded on September 8, 1636, but 9/8/1636 could also be interpreted as August 9, 1636!
 
