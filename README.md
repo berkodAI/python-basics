@@ -21,7 +21,7 @@ Here’s how to test your code manually. At the indoor/ $ prompt in your termina
 * Run your program with python indoor.py. Type 50 and press Enter. Your program should output 50.
 
 
-  2) [Playback Speed](https://github.com/berdii/python-basics/tree/main/w0/pset0/playback)
+ 2) [Playback Speed](https://github.com/berdii/python-basics/tree/main/w0/pset0/playback)
 
 Some people have a habit of lecturing speaking rather quickly, and it’d be nice to slow them down, a la YouTube’s 0.75 playback speed, or even by having them pause between words.
 
